@@ -1,4 +1,4 @@
-![logo](https://github.com/Anuragvermaooo/Anuragvermaooo/blob/main/image.png)
+![logo](https://github.com/Anuragvermaooo/Anuragvermaooo/blob/main/gitimage.png)
 
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
